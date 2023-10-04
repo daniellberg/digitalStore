@@ -1,0 +1,59 @@
+[
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png",
+        "promocao": "30% OFF"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    },
+    {
+        "categoria": "tenis",
+        "nome": "K-Swiss V8 - Masculino",
+        "preco": 200,
+        "desconto": 100,
+        "imagem": "./imagens/kswiss.png"
+    }
+]
